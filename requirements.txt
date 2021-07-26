@@ -1,5 +1,0 @@
-pandas==1.2.4
-ipywidgets==7.6.3
-matplotlib.pyplot as plt
-numpy=1.20.1
-plotly==5.1.0
